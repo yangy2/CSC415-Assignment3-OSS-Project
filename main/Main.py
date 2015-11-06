@@ -1,11 +1,11 @@
-Enter file contents here##Name: Yilin Yang
+##Name: Yilin Yang
 ##Course: CSC 415
 ##Semester: Fall 2015
 ##Instructor: Dr. Pulimood 
 ##Project name: Assignment 5 - OSS Project: RoboPython
 ##Description: Application teaches user how to code a NAO robot in Python
-##Filename: Setup.py
-##Description: File explains application and chooses which lesson to execute
+##Filename: Main.py
+##Description: File runs application
 ##Last modified on: 11/6/2015
 
 
