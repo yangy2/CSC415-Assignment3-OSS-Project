@@ -6,7 +6,7 @@
 ##Description: Application teaches user how to code a NAO robot in Python
 ##Filename: SpeechLesson.py
 ##Description: File gives lesson on how to code speech for NAO robot in steps
-##Last modified on: 10/20/2015
+##Last modified on: 11/6/2015
 
 ##Importing modules from the Naoqi OS
 from naoqi import ALProxy
